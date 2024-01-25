@@ -141,7 +141,4 @@ public class User {
 	public void setUserState(String userState) {
 		this.userState = userState;
 	}
-	
-	
-	
 }
